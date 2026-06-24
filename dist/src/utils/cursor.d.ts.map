@@ -1,0 +1,1 @@
+{"version":3,"file":"cursor.d.ts","sourceRoot":"","sources":["../../../src/utils/cursor.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,aAAa;IAC5B,YAAY,EAAE,MAAM,CAAC;IACrB,SAAS,EAAE,MAAM,CAAC;IAClB,EAAE,EAAE,MAAM,CAAC;CACZ;AAED,wBAAgB,YAAY,CAAC,OAAO,EAAE,aAAa,UAIlD;AAED,wBAAgB,YAAY,CAAC,MAAM,EAAE,MAAM,GAGpC,aAAa,CACnB"}
