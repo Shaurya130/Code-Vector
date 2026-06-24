@@ -23,7 +23,7 @@ so the most recently updated products appear first.
 
 ## Live Demo
 
-https://your-render-url.onrender.com
+https://code-vector-frontend-7zt53x1kq-shaurya130s-projects.vercel.app/
 
 ## Repository
 
